@@ -1,0 +1,5 @@
+# Ignorar arquivos temporários e específicos do sistema
+*.log
+*.tmp
+.DS_Store
+node_modules/
